@@ -567,7 +567,7 @@ BAnner Part start--
 @media only screen and (max-width: 480px) {
     .banner-part {
         width: 334px;
-        height: 724px;
+        height:698px;
     }
 
     .banner-part {
@@ -686,4 +686,44 @@ BAnner Part start--
       /* ------------------------------------------------------------------
    Upcomming match Blogs post End----------
    ------------------------------------------------------------------- */
+
+   .animation-text{
+    color: #FFFFFF;
+    animation: pulse 5s infinite ;
+   
+
+}
+@keyframes pulse{
+    0%{
+        color: #FFFFFF;
+        font-size: 0px;
+      
+       
+    }
+    20%{
+        color: #FFFFFF;
+        
+     
+        
+       
+    }
+    50%{
+        color: #FFFFFF;
+      
+      
+        
+    }
+    80%{
+        color: #FFFFFF;
+        font-size: 1vw;
+    }
+    100%{
+        color: #FFFFFF;
+        font-size:0px;
+     
+       
+       
+    }
+    
+}
 }
