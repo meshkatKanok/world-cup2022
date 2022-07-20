@@ -580,8 +580,8 @@ BAnner Part start--
 
 @media only screen and (max-width: 480px) {
     .banner-part {
-        width: 334px;
-        height: 698px;
+        width:334px;
+        height:724px;
     }
 
     .banner-part {
@@ -589,9 +589,9 @@ BAnner Part start--
     }
 
     .banner-img img {
-        width: 100%;
-        height: 100%;
-        margin-left: 15px;
+        width:100%;
+        height:100%;
+        margin-left:15px;
 
 
 
@@ -710,47 +710,8 @@ BAnner Part start--
 
    /* animation part start */
     .animation-text {
-        color: #FFFFFF;
-        animation: pulse 5s infinite;
+        animation:none;
 
-
-    }
-
-    @keyframes pulse {
-        0% {
-            color: #FFFFFF;
-            font-size: 0px;
-
-
-        }
-
-        20% {
-            color: #FFFFFF;
-
-
-
-
-        }
-
-        50% {
-            color: #FFFFFF;
-
-
-
-        }
-
-        80% {
-            color: #FFFFFF;
-            font-size: 1vw;
-        }
-
-        100% {
-            color: #FFFFFF;
-            font-size: 0px;
-
-
-
-        }
 
     }
     /* animation part ends--------------- */
